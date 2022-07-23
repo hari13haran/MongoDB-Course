@@ -1,0 +1,62 @@
+[{
+  "_id": {
+    "$oid": "62b7506fa5ee45256e147365"
+  },
+  "model": "POCO F4",
+  "brand": "POCO",
+  "price": [
+    "27,999",
+    "29,999",
+    "31,999"
+  ],
+  "segment": "premium midrange",
+  "rating": 8
+},{
+  "_id": {
+    "$oid": "62bc852f3fe0af7d0f0449a5"
+  },
+  "model": "Moto Edge 30",
+  "brand": "Motorola",
+  "price": [
+    "27,999",
+    "29,999"
+  ],
+  "segment": "premium midrange",
+  "rating": 7
+},{
+  "_id": {
+    "$oid": "62d4567c44d338d11067e041"
+  },
+  "model": "Nord 2T",
+  "brand": "OnePlus",
+  "SKU": [
+    {
+      "storage": "8+128",
+      "price": "28,999"
+    },
+    {
+      "storage": "12+256",
+      "price": "33,999"
+    }
+  ],
+  "segment": "premium midrange",
+  "rating": 6
+},{
+  "_id": {
+    "$oid": "62dad469c4e9766d67c78ac9"
+  },
+  "model": "Nord CE 2 Lite",
+  "brand": "OnePlus",
+  "SKU": [
+    {
+      "storage": "6+128",
+      "price": "19,999"
+    },
+    {
+      "storage": "6+256",
+      "price": "21,999"
+    }
+  ],
+  "segment": "midrange",
+  "rating": 7
+}]
